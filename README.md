@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify profile below I guess??
+### Spotify profile below if you want that.
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/5rokhst1rg21orfuf0w15udx6)
 
