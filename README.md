@@ -21,12 +21,9 @@
 
 <img align="right" src="https://media1.tenor.com/images/44a417b669f5ac61149a30ee10d3e234/tenor.gif?itemid=5706332"/>
 
-### Contact with me 📝
+### I'm a fan of horror movies 
 
 
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
 <br />
 
