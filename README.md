@@ -73,13 +73,5 @@
 
 ---
 
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+ ### From [color](https://github.com/colorlol) ### 
  
----
-
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-
-
