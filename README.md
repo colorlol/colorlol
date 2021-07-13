@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://media1.tenor.com/images/44a417b669f5ac61149a30ee10d3e234/tenor.gif?itemid=5706332"/>
 
 ### Contact with me 📝
 
