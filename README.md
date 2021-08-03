@@ -60,7 +60,7 @@
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
-282 contributions this year and growing. I keep my repositories private due to me not wanting my stuff open source considering I mainly make discord bots so you won't find alot of stuff unless I do decide to open source it.
+311 contributions this year and growing. I keep my repositories private due to me not wanting my stuff open source considering I mainly make discord bots so you won't find alot of stuff unless I do decide to open source it.
 
 I make cheats for some online school game called Quizizz because I'm bored but that's not released yet. Just a small project.
 
