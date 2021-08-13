@@ -19,9 +19,6 @@
 
 ---
 
-<img align="right" src="https://media1.tenor.com/images/44a417b669f5ac61149a30ee10d3e234/tenor.gif?itemid=5706332"/>
-
-### I'm a fan of horror movies 
 
 
 
