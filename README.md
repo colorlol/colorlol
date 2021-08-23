@@ -1,3 +1,8 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=colorlol&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=colorlol&layout=compact&langs_count=6&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&custom_title=Week Time On"/>
+
+
 # hey lol <img width="130px" src="https://media1.tenor.com/images/df76eb75c3b9a26279a03755085563f3/tenor.gif?itemid=17424128" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
