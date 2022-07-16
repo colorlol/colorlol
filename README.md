@@ -2,31 +2,20 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Javascript Developer.
+## javasckwipt devewlioper :pweadiong_emoji:
 
-- I'm a discord bot developer.
-- Very good at coding Javascript.
-- Fluent in LUA, Ruby, Python, etc etc.
-- I also like swimming
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify profile below if you want that.
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/5rokhst1rg21orfuf0w15udx6)
+- discowd bot developwr (dont mess with my kittens)
+- one of the best at cowding javaskwipt (its true)
+- python n javascript n ruby on top
+- fr^
 
 ---
-
-
-
 
 <br />
 
 ---
 
-### Languages I know and some tools I use.
+### languages ik and tools i use :pweading_emoji:
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -55,13 +44,13 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h2 align="center"> github stats :woah: </h2>
   
-311 contributions this year and growing. I keep my repositories private due to me not wanting my stuff open source considering I mainly make discord bots so you won't find alot of stuff unless I do decide to open source it.
+i have like hundereds of contributions mane
+most of them r private repos since
+n if theyre public then theyre probably obfuscated, im not an open source dev
 
-I make cheats for some online school game called Quizizz because I'm bored but that's not released yet. Just a small project.
-
-1st join date was 2014.
+1st joindate was 2014
 
 ---
 
