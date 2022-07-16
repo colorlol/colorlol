@@ -46,9 +46,7 @@
 
   <h2 align="center"> github stats :woah: </h2>
   
-i have like hundereds of contributions mane
-most of them r private repos since
-n if theyre public then theyre probably obfuscated, im not an open source dev
+i have like hundereds of contributions man. most of them r private repos lmao,  n if theyre public then theyre probably obfuscated, im not an open source dev
 
 1st joindate was 2014
 
